@@ -1,0 +1,27 @@
+_repo: Flying-the-Coast-SkywaysJack-Ralston-s-Swift-Patrol_45680
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45680-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Newcomb, Ambrose
+    gutenberg_agent_id: '35220'
+    url: http://www.gutenberg.org/2009/agents/35220
+description: ''
+gutenberg_issued: '2014-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45680'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Secret service -- United States -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Aeronautics -- Juvenile fiction'
+- !lcsh 'Air pilots -- Juvenile fiction'
+title: Flying the Coast Skyways; Or, Jack Ralston's Swift Patrol
+url: http://www.gutenberg.org/ebooks/45680
